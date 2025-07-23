@@ -3,3 +3,6 @@ Test case2: All the test cases for the sign up page
 Test case3: All the test cases for the UI/UX
 
 Test case4: Its not been finalised yet
+
+Test case5: Same changes have been made
+
